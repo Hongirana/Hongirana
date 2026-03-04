@@ -3,6 +3,7 @@
 ![Coverage](https://img.shields.io/badge/coverage-70--75%25-yellow)
 ![Deploy](https://img.shields.io/badge/deploy-live-success)
 ![Node](https://img.shields.io/badge/node-18+-blue)
+![FinCopilot Dashboard](./docs/screenshot.png)
 # Hi, I'm Hongirana U 👋
 
 ### Senior Full Stack Developer | MERN Stack | Fintech | AI Integration
@@ -35,6 +36,10 @@
 - 🌐 Live: [fin-copilot-fawn.vercel.app](https://fin-copilot-fawn.vercel.app)
 
 ---
+## 🎯 Why I Built This
+Coming from 5+ years at Infosys Finacle (core banking), I wanted to demonstrate 
+that I can architect and ship a full fintech product independently — from DB schema 
+design to AI integration to production deployment. Built in 8 weeks solo.
 
 ## 📊 GitHub Stats
 

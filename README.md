@@ -49,5 +49,5 @@ design to AI integration to production deployment. Built in 8 weeks solo.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/hongirana-u)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongirana-u)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:hongiranau@gmail.com)

@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://img.shields.io/badge/tests-164%20passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-70--75%25-yellow)
+![Deploy](https://img.shields.io/badge/deploy-live-success)
+![Node](https://img.shields.io/badge/node-18+-blue)
 # Hi, I'm Hongirana U 👋
 
 ### Senior Full Stack Developer | MERN Stack | Fintech | AI Integration

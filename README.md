@@ -6,7 +6,7 @@
 ![FinCopilot Dashboard](./docs/screenshot.png)
 # Hi, I'm Hongirana U 👋
 
-### Senio Nodejs Developer | Full Stack Developer | MERN Stack | Fintech | AI Integration
+### Senior Nodejs Developer | Full Stack Developer | MERN Stack | Fintech | AI Integration
 
 🏢 5+ years at **Infosys Finacle** (Core Banking Platform)
 🚀 Building AI-powered fintech products from scratch
